@@ -13,7 +13,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado Python y un ento
 1. **Clona este repositorio** o descarga los archivos.
 
    ```bash
-[   git clone <URL_DEL_REPOSITORIO>](https://github.com/sebasrb08/to-do-python.git)
+   [   git clone <URL_DEL_REPOSITORIO>](https://github.com/sebasrb08/to-do-python.git)
 
 
 
