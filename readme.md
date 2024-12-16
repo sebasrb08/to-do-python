@@ -14,7 +14,9 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado Python y un ento
 
    ```bash
 [   git clone <URL_DEL_REPOSITORIO>](https://github.com/sebasrb08/to-do-python.git)
-   ```
+
+
+
 Crea un entorno virtual (opcional pero recomendado):
 
 2. **Crea un entorno virtual**
