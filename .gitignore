@@ -1,0 +1,34 @@
+# Created by https://www.toptal.com/developers/gitignore/api/venv,dotenv,sonarqube
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv,dotenv,sonarqube
+
+### dotenv ###
+.env
+
+### SonarQube ###
+# SonarQube ignore files.
+#
+# https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner
+# Sonar Scanner working directories
+.sonar/
+.sonarqube/
+.scannerwork/
+
+# http://www.sonarlint.org/commandline/
+# SonarLint working directories, configuration files (including credentials)
+.sonarlint/
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+# End of https://www.toptal.com/developers/gitignore/api/venv,dotenv,sonarqube
