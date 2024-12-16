@@ -80,3 +80,12 @@ para poder eliminar la tarea , el estado debe estar "Completado":
 
 ![image](https://github.com/user-attachments/assets/9be07848-3347-40c6-bb5c-1a51a7165b38)
 
+
+## SonarQube
+
+![Captura de pantalla 2024-12-16 172636](https://github.com/user-attachments/assets/37ec9ab6-cdc7-4784-a14f-4bc18d738080)
+
+
+![Captura de pantalla 2024-12-16 172645](https://github.com/user-attachments/assets/b947dd35-00b7-43eb-9e88-950bc8d641bf)
+
+
