@@ -13,8 +13,10 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado Python y un ento
 1. **Clona este repositorio** o descarga los archivos.
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <CARPETA_DEL_REPOSITORIO>
+      git clone https://github.com/sebasrb08/to-do-python.git
+
+
+
 Crea un entorno virtual (opcional pero recomendado):
 
 2. **Crea un entorno virtual**
@@ -55,11 +57,37 @@ Crea un archivo llamado .env en la raíz de tu proyecto. Este archivo contendrá
 
 1. **Pantalla de Inicio (Listado de Tareas)**
 
+![Captura de pantalla 2024-12-16 163923](https://github.com/user-attachments/assets/b010dee3-3610-413f-a069-4490727a8c79)
+
+
 2. **Modal Agregar Tareas**
+
+![Captura de pantalla 2024-12-16 170422](https://github.com/user-attachments/assets/8ed2b3a0-83ae-479e-800c-1b055827e158)
+
 
 3. **Editar Tareas**
 
+![image](https://github.com/user-attachments/assets/3167e177-a1c1-4325-a6e9-1733482a75a2)
+
+
 4. **Cambiar estado**
+
+![image](https://github.com/user-attachments/assets/0c05825d-4f4a-4440-8e65-65b560bc7970)
+
 
 5. **Eliminar Tarea**
 para poder eliminar la tarea , el estado debe estar "Completado":
+
+![image](https://github.com/user-attachments/assets/9be07848-3347-40c6-bb5c-1a51a7165b38)
+
+
+## SonarQube
+
+![Captura de pantalla 2024-12-16 180719](https://github.com/user-attachments/assets/87560835-6857-46df-98b0-76d579cb086a)
+
+
+![Captura de pantalla 2024-12-16 180730](https://github.com/user-attachments/assets/6e29b2c0-cc06-40c4-ab8f-4464cce20aae)
+
+
+
+
