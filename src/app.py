@@ -48,6 +48,10 @@ def add():
         add_task()
         st.rerun()
 
+#Boton de eliminar
+def delete(col5,index,row):
+    col5.button("Eliminar",on_click=lambda: delete_task(row["id"]), key=f"delete_{index}")
+
 # Actualiza la tarea
 def update_task():
     task_service = TaskService()
@@ -96,7 +100,7 @@ def view_task():
         col4.write(f':{color}[{row["status"]}]')
         
         if row["status"] == "Completado":   
-            col5.button("Eliminar",on_click=lambda: delete_task(row["id"]), key=f"delete_{index}")
+            delete(col5,index,row)
 
 
         if col6.button("Editar", key=f"update{index}"):

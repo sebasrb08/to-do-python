@@ -22,8 +22,8 @@ class TaskService :
             with open("src/data.json", "w") as archivo:
                 json.dump([], archivo, indent=4)
             return []
+        
     #Hace la conexion a la base de datos
-    
     def connect_bd(self):
         try: 
             #Crea las tablas
