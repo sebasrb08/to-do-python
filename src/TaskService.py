@@ -7,7 +7,8 @@ class TaskService :
     #Guarda las tareas en un archivo Json
     def guardar(self,tasks):
         try:
-            with open("src/data.json", "w") as json_file:
+            archivo = "src/data.json"
+            with open(archivo, "w") as json_file:
                 json.dump(tasks, json_file, indent=4)
         except NameError as e:
             print("No se pudo guardar los datos de la tarea", e)
